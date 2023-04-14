@@ -1,1 +1,1 @@
-# finance-tracker
+This is a finance tracker app
